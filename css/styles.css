@@ -666,7 +666,7 @@ img {
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .callback-form-field-wrapper {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 .callback-form-input-wrapper {
   position: relative;
